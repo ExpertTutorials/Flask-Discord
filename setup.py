@@ -25,7 +25,7 @@ requirements = [
     "chardet==4.0.0",
     "charset-normalizer==2.0.11",
     "click==8.0.3",
-    "discord.py==1.7.3",
+    "py-cord==2.0.0b4",
     "Flask==2.0.2",
     "idna==3.3",
     "itsdangerous==2.0.1",
